@@ -22,3 +22,4 @@ Ben Cengizhan ve yazılım geliştirmeye olan ilgimle farklı alanlarda kendimi 
 ## Bana Ulaşın
 - 💬 Discord: [KayJs](https://discord.gg/sVBxmtGpQe)
 - 📧 E-posta: kayjsDev@gmail.com
+- 🌐 Web: [KayJs](kayjs.42web.io)
