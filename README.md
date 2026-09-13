@@ -1,128 +1,114 @@
 <div align="center">
 
-# KayJss
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:070B12,55:111827,100:0EA5E9&text=KAYJSS&fontColor=FFFFFF&fontSize=64&fontAlignY=38&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Founder%20of%20Qurify&descAlignY=58&animation=fadeIn" alt="KayJss header" />
 
-### Developer • Builder • Founder of Qurify
+<a href="https://qurify.com.tr"><img src="https://img.shields.io/badge/QURIFY-FOUNDER-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Qurify" /></a>
+<a href="https://github.com/KayJss?tab=repositories"><img src="https://img.shields.io/badge/OPEN%20SOURCE-BUILDER-111827?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" /></a>
+<img src="https://komarev.com/ghpvc/?username=KayJss&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile views" />
 
-I build practical software products, backend systems, automation tools and developer infrastructure.
+<br/><br/>
 
-[![Qurify](https://img.shields.io/badge/Qurify-qurify.com.tr-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://qurify.com.tr)
-[![GitHub](https://img.shields.io/badge/GitHub-KayJss-181717?style=for-the-badge&logo=github)](https://github.com/KayJss)
-[![Python](https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/KayJss?tab=repositories)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=I+build+software+that+solves+real+problems.;Backend+systems+%E2%80%A2+APIs+%E2%80%A2+Automation+%E2%80%A2+Web;Shipping+products%2C+not+just+writing+code." alt="Typing introduction" />
 
 </div>
 
 ---
 
-## About me
+### `> whoami`
 
-- Founder of **Qurify**, focused on web development and software solutions
-- Building backend systems, APIs, automation and developer tooling
-- Interested in clean architecture, practical products and reliable developer experience
-- Shipping public projects to turn experiments into maintainable portfolio work
-- Currently improving my open-source projects with better tests, documentation and CI
+```text
+KayJss
+Developer / Builder / Founder @ Qurify
 
-## Tech stack
+Focus      : backend systems, web products, automation, developer tooling
+Approach   : build fast, keep architecture clean, ship useful software
+Currently  : growing Qurify and improving open-source projects
+```
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,html,css,js,nodejs,git,github,postgres,sqlite,docker" alt="Technology stack" />
-</p>
+### `> stack`
 
-## Featured projects
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,js,nodejs,html,css,postgres,sqlite,docker,git,github&perline=12" alt="Tech stack" />
+</div>
+
+<br/>
+
+### `> selected_projects`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [KAYFRAMEWORK](https://github.com/KayJss/kayframework)
+#### ⚡ [KAYFRAMEWORK](https://github.com/KayJss/kayframework)
+FastAPI-oriented developer tooling for repeatable project structure and CLI-driven workflows.
 
-A scaffold-first FastAPI micro-framework focused on repeatable project architecture and CLI-driven workflows.
-
-**Highlights**
-- FastAPI project scaffolding
-- Project and module CLI commands
-- `src` layout and generated code ownership
-- Tests, docs and packaging
-- Safer project-name validation and scaffold cleanup
+`Python` `FastAPI` `CLI` `Testing`
 
 </td>
 <td width="50%" valign="top">
 
-### [Uptime Lite](https://github.com/KayJss/uptime-lite)
+#### 📡 [Uptime Lite](https://github.com/KayJss/uptime-lite)
+Lightweight website uptime and response-time monitoring with a clean dashboard and JSON API.
 
-A lightweight website uptime and response-time monitor with a Flask dashboard and JSON API.
-
-**Highlights**
-- HTTP/HTTPS checks
-- Response-time monitoring
-- Responsive dashboard
-- Automated tests
-- GitHub Actions CI
+`Python` `Flask` `Monitoring` `CI`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [PVPTIERLIST](https://github.com/KayJss/PVPTIERLIST)
+#### 🎮 [PVPTIERLIST](https://github.com/KayJss/PVPTIERLIST)
+Minecraft PvP leaderboard platform with kit rankings, player tiers, API endpoints and Discord integration.
 
-A responsive Minecraft PvP leaderboard platform with kit-based rankings, an Express API and Discord integration.
-
-**Highlights**
-- Overall and kit leaderboards
-- Player tiers, badges and points
-- Express API
-- Discord integration
-- Modernized responsive UI
+`JavaScript` `Express` `API` `Discord`
 
 </td>
 <td width="50%" valign="top">
 
-### [CimerbotPy](https://github.com/KayJss/CimerbotPy)
+#### 🤖 [CimerbotPy](https://github.com/KayJss/CimerbotPy)
+Experimental browser-automation project built around a user-guided web flow.
 
-An experimental Python browser-automation project for interacting with the CİMER web flow.
+`Python` `Selenium` `Automation`
 
-**Highlights**
-- Selenium-based browser automation
-- User-guided authentication flow
-- Form automation experiment
-- Security-focused documentation
-
-> Unofficial project; not affiliated with CİMER or e-Devlet.
+<sub>Unofficial project; not affiliated with CİMER or e-Devlet.</sub>
 
 </td>
 </tr>
 </table>
 
-## What I'm building
+### `> github_activity`
+
+<div align="center">
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KayJss&theme=github_dark" alt="GitHub activity" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KayJss&theme=github_dark" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KayJss&theme=github_dark&utcOffset=3" alt="Productive time" />
+</div>
+
+<div align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=KayJss&bg_color=0d1117&color=7dd3fc&line=0ea5e9&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
+</div>
+
+### `> what_i_build`
 
 ```text
 Qurify       -> web & software solutions
-KAYFRAMEWORK -> FastAPI developer tooling
-Uptime Lite  -> website monitoring
-PVPTIERLIST  -> multiplayer leaderboard platform
-CimerbotPy   -> browser automation experiment
+KAYFRAMEWORK -> developer tooling
+Uptime Lite  -> monitoring infrastructure
+PVPTIERLIST  -> community leaderboard platform
+CimerbotPy   -> browser automation experiments
 ```
 
-## GitHub activity
-
 <div align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KayJss&theme=github_dark" alt="GitHub profile activity" />
-</div>
-
-<div align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KayJss&theme=github_dark" alt="Repositories per language" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KayJss&theme=github_dark" alt="Most used commit languages" />
-</div>
-
-## Project philosophy
-
-I prefer projects that are small enough to understand, useful enough to matter and structured well enough to keep improving. My goal is to move experiments toward cleaner code, tests, documentation, CI and safer defaults.
 
 ---
 
-<div align="center">
+**BUILD USEFUL THINGS · SHIP OFTEN · IMPROVE CONSTANTLY**
 
-### Build useful things. Ship often. Improve constantly.
+<a href="https://qurify.com.tr">qurify.com.tr</a> · <a href="https://github.com/KayJss?tab=repositories">repositories</a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0EA5E9,100:070B12" alt="Footer" />
 
 </div>
