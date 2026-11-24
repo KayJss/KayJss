@@ -49,15 +49,6 @@ Python backend developer based in Türkiye, focused on REST API development, dat
 - [RedirectAudit](https://github.com/KayJss/RedirectAudit) — HTTP redirect-chain analysis CLI.
 
 </details>
-
-## Currently learning
-
-- PostgreSQL and relational database design
-- SQLAlchemy ORM and Alembic migrations
-- Modular backend architecture
-- Docker, Redis and asynchronous Python
-- CI/CD and deployment practices
-
 ## GitHub activity
 
 <div align="center">
