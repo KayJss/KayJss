@@ -1,114 +1,73 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:070B12,55:111827,100:0EA5E9&text=KAYJSS&fontColor=FFFFFF&fontSize=64&fontAlignY=38&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Founder%20of%20Qurify&descAlignY=58&animation=fadeIn" alt="KayJss header" />
+# KayJss
 
-<a href="https://qurify.com.tr"><img src="https://img.shields.io/badge/QURIFY-FOUNDER-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Qurify" /></a>
-<a href="https://github.com/KayJss?tab=repositories"><img src="https://img.shields.io/badge/OPEN%20SOURCE-BUILDER-111827?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" /></a>
-<img src="https://komarev.com/ghpvc/?username=KayJss&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile views" />
+### Junior Backend Developer | Python & FastAPI
 
-<br/><br/>
+REST APIs · Authentication · SQL · Automated Testing
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=I+build+software+that+solves+real+problems.;Backend+systems+%E2%80%A2+APIs+%E2%80%A2+Automation+%E2%80%A2+Web;Shipping+products%2C+not+just+writing+code." alt="Typing introduction" />
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-KayJss-181717?style=flat-square&logo=github)](https://github.com/KayJss)
+[![Open to work](https://img.shields.io/badge/Open%20to-Junior%20Backend%20Roles-2563EB?style=flat-square)](https://github.com/KayJss?tab=repositories)
 
 </div>
 
 ---
 
-### `> whoami`
+## About me
 
-```text
-KayJss
-Developer / Builder / Founder @ Qurify
+Python backend developer based in Türkiye, focused on REST API development, database operations, JWT authentication and automated API testing.
 
-Focus      : backend systems, web products, automation, developer tooling
-Approach   : build fast, keep architecture clean, ship useful software
-Currently  : growing Qurify and improving open-source projects
-```
+**Open to junior backend developer opportunities.**
 
-### `> stack`
+## Technical skills
+
+| Area | Technologies & concepts |
+| :--- | :--- |
+| Languages | Python, SQL |
+| Backend | FastAPI, Flask, REST APIs, Pydantic |
+| Databases | SQLite, parameterized SQL queries |
+| Authentication | JWT, Bearer authentication, bcrypt, environment-based configuration |
+| Testing | Pytest, FastAPI TestClient, fixtures, API integration tests |
+| Developer tools | Git, GitHub, Swagger / OpenAPI, CLI tooling |
+
+## Featured projects
+
+| Project | Description | Technologies |
+| :--- | :--- | :--- |
+| **[JWT Authentication API](https://github.com/KayJss/fastapi-jwt-auth)** | User registration, login, protected profile access, password changes and account deletion. 29 passing automated tests in the latest local run. | FastAPI, SQLite, PyJWT, bcrypt, Pytest |
+| **[FastAPI Task Manager](https://github.com/KayJss/fastapi-task-manager)** | Task management REST API demonstrating CRUD operations and automated testing. | Python, FastAPI, SQLite |
+| **[FastAPI Coupon API](https://github.com/KayJss/fastapi-coupon-api)** | A backend API project for coupon management. | Python, FastAPI |
+| **[Uptime Lite](https://github.com/KayJss/uptime-lite)** | Website availability and response-time monitoring with a dashboard and JSON API. | Flask, Requests, Pytest, GitHub Actions |
+| **[EnvDrift](https://github.com/KayJss/EnvDrift)** | CLI for detecting environment configuration inconsistencies without printing secret values. | Python, CLI |
+| **[HeaderGuard](https://github.com/KayJss/HeaderGuard)** | CLI for auditing HTTP security headers, with policy checks and automated tests. | Python, HTTP, CLI |
+
+<details>
+<summary>More developer tools</summary>
+
+- [RedirectAudit](https://github.com/KayJss/RedirectAudit) — HTTP redirect-chain analysis CLI.
+
+</details>
+
+## Currently learning
+
+- PostgreSQL and relational database design
+- SQLAlchemy ORM and Alembic migrations
+- Modular backend architecture
+- Docker, Redis and asynchronous Python
+- CI/CD and deployment practices
+
+## GitHub activity
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,js,nodejs,html,css,postgres,sqlite,docker,git,github&perline=12" alt="Tech stack" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KayJss&amp;theme=github-compact&amp;hide_border=true&amp;area=true" alt="GitHub contribution activity" />
 </div>
-
-<br/>
-
-### `> selected_projects`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### ⚡ [KAYFRAMEWORK](https://github.com/KayJss/kayframework)
-FastAPI-oriented developer tooling for repeatable project structure and CLI-driven workflows.
-
-`Python` `FastAPI` `CLI` `Testing`
-
-</td>
-<td width="50%" valign="top">
-
-#### 📡 [Uptime Lite](https://github.com/KayJss/uptime-lite)
-Lightweight website uptime and response-time monitoring with a clean dashboard and JSON API.
-
-`Python` `Flask` `Monitoring` `CI`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🎮 [PVPTIERLIST](https://github.com/KayJss/PVPTIERLIST)
-Minecraft PvP leaderboard platform with kit rankings, player tiers, API endpoints and Discord integration.
-
-`JavaScript` `Express` `API` `Discord`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🤖 [CimerbotPy](https://github.com/KayJss/CimerbotPy)
-Experimental browser-automation project built around a user-guided web flow.
-
-`Python` `Selenium` `Automation`
-
-<sub>Unofficial project; not affiliated with CİMER or e-Devlet.</sub>
-
-</td>
-</tr>
-</table>
-
-### `> github_activity`
-
-<div align="center">
-  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KayJss&theme=github_dark" alt="GitHub activity" />
-</div>
-
-<div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KayJss&theme=github_dark" alt="GitHub stats" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KayJss&theme=github_dark&utcOffset=3" alt="Productive time" />
-</div>
-
-<div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=KayJss&bg_color=0d1117&color=7dd3fc&line=0ea5e9&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
-</div>
-
-### `> what_i_build`
-
-```text
-Qurify       -> web & software solutions
-KAYFRAMEWORK -> developer tooling
-Uptime Lite  -> monitoring infrastructure
-PVPTIERLIST  -> community leaderboard platform
-CimerbotPy   -> browser automation experiments
-```
-
-<div align="center">
 
 ---
 
-**BUILD USEFUL THINGS · SHIP OFTEN · IMPROVE CONSTANTLY**
+<div align="center">
 
-<a href="https://qurify.com.tr">qurify.com.tr</a> · <a href="https://github.com/KayJss?tab=repositories">repositories</a>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0EA5E9,100:070B12" alt="Footer" />
+[Explore my repositories](https://github.com/KayJss?tab=repositories)
 
 </div>
