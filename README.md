@@ -49,7 +49,7 @@ Python backend developer based in Türkiye, focused on REST API development, dat
 - [RedirectAudit](https://github.com/KayJss/RedirectAudit) — HTTP redirect-chain analysis CLI.
 
 </details>
-## GitHub activity
+# GitHub activity
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KayJss&amp;theme=github-compact&amp;hide_border=true&amp;area=true" alt="GitHub contribution activity" />
